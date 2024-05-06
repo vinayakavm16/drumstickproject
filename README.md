@@ -1,0 +1,1 @@
+Hello Folks...This is a complete implementation of the various functionalities of java script into a single project called drumstickproject.It basically involves the eventlistners for both manual clicking on the buttons provided on the screen and also the keys in the keyboards.
